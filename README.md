@@ -12,7 +12,10 @@ En cada proyecto en el que me involucro, mi objetivo es superar las expectativas
 
 Estoy emocionado por seguir creciendo como desarrollador. Si estás buscando a alguien con mi perfil para colaborar en proyectos emocionantes, no dudes en enviarme un mensaje a thastrup@gmail.com !
 
+
+
 PROYECTOS
+
 Full Stack Web Developer - Pet Venture - Junio. 2023
 Proyecto Final 1. Henry Bootcamp
 
@@ -23,7 +26,11 @@ Proyecto Final 2. Henry Bootcamp
 
 E-commerce petshop con los siguientes objetivos tech: pasarela de pagos, base de datos, paginado, permanencia, filtrados combinados y borrado lógico, login y deploy. Tecnologías: Firebase, Nextjs, Formik, Cloudinary, Javascript, Roles Macro- Organizar proyecto. Definir Prioridades, Distribuir tareas. Micro-  Back: Diseñar base de datos, crear rutas, controllers y handlers, Front: filtros combinados, sección de comentarios.
 
+
+
 TECNOLOGÍAS
+
+
 Lenguajes de Programación: Javascript, Typescript,  CSS, HTML.
 Herramientas de Frameworks: React, Redux, Sequelize, Firebase, Next.js, Tailwind. Node.js, Express, MUI, mercadoPago.
 Base de Datos: PostgreSQL, Firebase
