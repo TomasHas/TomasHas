@@ -1,39 +1,37 @@
-# TomasHas
+Hello there, 
 
-¡Hola! Soy Tomas, un entusiasta desarrollador con pasión por la creación de soluciones eficientes. Mi viaje en el mundo del desarrollo comenzó porque deseaba tener el poder de crear en mis manos.
+I'm Tomas, a versatile professional with a commitment for customer satisfaction. 
 
-Después de completar un curso de JavaScript, decidí dar un paso más allá y embarcarme en el desafiante bootcamp de Henry. Durante este emocionante proceso, trabajé en dos proyectos grupales, lo que me permitió adquirir valiosas habilidades colaborativas y técnicas.
+My background is  as diverse as it is dynamic. With a recent graduation from Henry Bootcamp, an intensive full-stack web design bootcamp, I've embarked on a new journey in the tech industry, ready to leverage my experience from working in Fortune 500 companies, medium size businesses, and entrepreneurial ventures. 
 
-Mi background en marketing y producción de eventos corporativos y deportivos ha sido una fuente invaluable de inspiración en mi trayectoria como desarrollador. Me ha enseñado la importancia de entender el propósito de cada elemento y su impacto en la experiencia del usuario. Esta habilidad me ha permitido codear soluciones prácticas y efectivas que brindan una experiencia óptima al usuario final.
+My professional voyage has seen me navigate roles ranging from marketing to logistics and event production, instilling in me a holistic understanding of business operations. This rich tapestry of experiences has equipped me with the ability to adapt swiftly, communicate effectively, and collaborate seamlessly across diverse teams – all essential skills in today's rapidly evolving tech landscape. 
 
-Me apasiona crear aplicaciones que resuelvan problemas de manera efectiva y también disfruto trabajando en proyectos personales para seguir expandiendo mis habilidades. Como amante del ejercicio y los deportes, sé que la disciplina y la perseverancia son clave tanto en el mundo deportivo como en el desarrollo de software.
-
-En cada proyecto en el que me involucro, mi objetivo es superar las expectativas y crear productos que marquen la diferencia. Aprendo constantemente, y disfruto arreglando cosas y descubriendo cómo funcionan en su esencia.
-
-Estoy emocionado por seguir creciendo como desarrollador. Si estás buscando a alguien con mi perfil para colaborar en proyectos emocionantes, no dudes en enviarme un mensaje a thastrup@gmail.com !
+I'm excited to explore the myriad ways I can contribute to your team's success. Looking forward to new challenges and breakthroughs, Tomas Hastrup
 
 
 
-PROYECTOS
+PROJECTS
 
-Full Stack Web Developer - Pet Venture - Junio. 2023
-Proyecto Final 1. Henry Bootcamp
+Full Stack Web Developer - Pet Venture - June, 2023.
+Final Project 1 - Henry Bootcamp
 
-E-commerce petshop con los siguientes objetivos tech: pasarela de pagos, base de datos, paginado, permanencia, filtrados combinados y borrado lógico, login y deploy. Tecnologías: Firebase, Nextjs, Formik, Cloudinary, Javascript, Roles Macro- Organizar proyecto. Definir Prioridades, Distribuir tareas. Micro-  Back: configurar FireBase y base de datos. Front: filtros combinados, dashboard, paginado, detail page.
+E-commerce petshop using the following tech requirements: payment section, database and database edit, pagination, persistence, combined filters, login y deploy. Technologies: Firebase, Nextjs, Formik, Cloudinary, Javascript, 
+Role Macro: Proyect Manager. Prioritize and distribute tasks. Micro:  Back-end: Configure FireBase y database. Front-end: fitlers, dashboard, pagination, detail page.
 
-Full Stack Web Developer - Step by Step - Julio. 2023
-Proyecto Final 2. Henry Bootcamp
+Full Stack Web Developer - Step by Step - July, 2023.
+Final Project 2 - Henry Bootcamp
 
-E-commerce petshop con los siguientes objetivos tech: pasarela de pagos, base de datos, paginado, permanencia, filtrados combinados y borrado lógico, login y deploy. Tecnologías: Firebase, Nextjs, Formik, Cloudinary, Javascript, Roles Macro- Organizar proyecto. Definir Prioridades, Distribuir tareas. Micro-  Back: Diseñar base de datos, crear rutas, controllers y handlers, Front: filtros combinados, sección de comentarios.
-
-
-
-TECNOLOGÍAS
+E-commerce sneaker store wit the following tech requirements:payment section, database and database edit, pagination, persistence, combined filters, login y deploy. Technologies: Express, Sequelize, PostgreSQL, Cloudinary, Javascript,  Tecnologías: Cloudinary, Javascript.
+Role Macro: Proyect Manager. Prioritize and distribute tasks.  Micro:  Back-end: design database, create routes, controllers and handlers. Front-end: combined filters, comments section, responsive design.
 
 
-Lenguajes de Programación: Javascript, Typescript,  CSS, HTML.
-Herramientas de Frameworks: React, Redux, Sequelize, Firebase, Next.js, Tailwind. Node.js, Express, MUI, mercadoPago.
-Base de Datos: PostgreSQL, Firebase
-Herramientas: Git, Jira, Trello,  Slack. Agile: Scrum.
-Herramientas de Diseño; Photoshop, Illustrator.
+
+Technologies
+
+
+Programing Languages: Javascript, Typescript,  CSS, HTML.
+Frameworks: React, Redux, Sequelize, Firebase, Next.js, Tailwind. Node.js, Express, MUI, mercadoPago.
+Database: PostgreSQL, Firebase
+Tools: Git, Jira, Trello,  Slack, Agile: Scrum.
+Design Tools: Photoshop, Illustrator.
 
