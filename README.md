@@ -1,6 +1,6 @@
 Hello there, 
 
-I'm Tomas, a versatile professional with a commitment for customer satisfaction. 
+I'm Tomas, a versatile professional with a commitment for client satisfaction. 
 
 My background is  as diverse as it is dynamic. With a recent graduation from Henry Bootcamp, an intensive full-stack web design bootcamp, I've embarked on a new journey in the tech industry, ready to leverage my experience from working in Fortune 500 companies, medium size businesses, and entrepreneurial ventures. 
 
